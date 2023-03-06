@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 # Stats Github
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaoloNapoli97">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaoloNapoli97&show_icons=true&theme=dracula">
 </div>
