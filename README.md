@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Stat Github
+# Stats Github
 
 <div align="center">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaoloNapoli97">
