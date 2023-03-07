@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <div>
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaoloNapoli97&show_icons=true&theme=dracula"/>
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=PaoloNapoli97&theme=dracula&mode=weekly(https://git.io/streak-stats)"/>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PaoloNapoli97&show_icons=true&theme=dracula"/>
   </div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolonapoli97&theme=dracula&layout=compact"/>
 </div>
