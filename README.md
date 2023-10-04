@@ -38,6 +38,8 @@ Here are some ideas to get you started:
   <div>
     <img src="https://skillicons.dev/icons?i=nodejs,git,mysql">
   </div>
+
+  Currently Learning .NET, C#, Typescript and Angular
   
 </div>
 
