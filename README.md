@@ -26,12 +26,12 @@ Here are some ideas to get you started:
   
   ### Frameworks ⚡ ...
   <div>
-    <img src="https://skillicons.dev/icons?i=vue,vite,laravel,bootstrap">
+    <img src="https://skillicons.dev/icons?i=vue,vite,.NET,angular,bootstrap">
   </div>
   
   ### Languages 💬 ...
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,csharp,ts,java">
+    <img src="https://skillicons.dev/icons?i=html,css,js,c#,ts,java">
   </div>
   
   ### Others 🔭 ...
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=nodejs,git,mysql">
   </div>
 
-  Currently Learning .NET, C#, Typescript and Angular
+  Currently Learning Java Spring Boot
   
 </div>
 
