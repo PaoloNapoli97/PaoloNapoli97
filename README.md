@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   
   ### Languages 💬 ...
   <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,c#,ts,java">
+    <img src="https://skillicons.dev/icons?i=,js,c#,ts,java">
   </div>
   
   ### Others 🔭 ...
