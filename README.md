@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
   ### Frameworks ⚡ ...
   <div>
-    <img src="https://skillicons.dev/icons?i=vue,vite,.NET,angular,bootstrap">
+    <img src="https://skillicons.dev/icons?i=vue,vite,angular,bootstrap">
   </div>
   
   ### Languages 💬 ...
