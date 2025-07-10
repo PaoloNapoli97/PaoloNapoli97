@@ -19,6 +19,11 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmEyYmU3Y2YzOWI5MGEwNWMyNDY1MDMwMjNjZmRkZjA5OWRmNTNmNyZjdD1z/M4NykXxUE0HAcK7UJ6/giphy.gif"/>
   </div>
 
+# About me
+  <div align="center">
+    I'm a Jr Full Stack Developer.
+    I've been studing programming with various full-time courses. Currently I'm still searching for my first job as a developer, while working in some minor personal project. My repositories are public, if you want to check it out, there are both excercise I did for learning purposes and projects.
+  </div>
 
 # My Skills
 
@@ -60,10 +65,6 @@ Here are some ideas to get you started:
   
  
   <img src="https://komarev.com/ghpvc/?username=PaoloNapoli97&style=flat-square&color=blue" alt=""/>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/xT9IgoEQGzomGdxT0s/giphy.gif"/>
-  </div>
   
 </div>
 
@@ -78,18 +79,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolonapoli97&theme=dracula&layout=compact"/>
 </div>
 
-# More
-
-<div>
-  &nbsp
-  <div align="center">
-    <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized.gif"/>
-
-  </div>
-  &nbsp
-  <div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pingopallino97&unique=true"/>
-  </div>
-</div>
 
 
