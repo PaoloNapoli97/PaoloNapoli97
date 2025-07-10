@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 # About me
   <div align="center">
     I'm a Jr Full Stack Developer.
-    I've been studing programming with various full-time courses. Currently I'm still searching for my first job as a developer, while working in some minor personal project. My repositories are public, if you want to check it out, there are both excercise I did for learning purposes and projects.
+    I've been studing programming with various full-time courses. <br> Currently I'm still searching for my first job as a developer, while working in some minor personal project. <br> My repositories are public, if you want to check it out, there are both excercise I did for learning purposes and projects. <br> At the moment, most of my C# and Java projects are not public, particularly my Java projects, so if you are interested in knowing what I did, please contact me
   </div>
 
 # My Skills
